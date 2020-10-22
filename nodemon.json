@@ -1,0 +1,6 @@
+{
+  "env" : {
+    "BACKEND_URL_PATH" : "mongodb://127.0.0.1:27017/Mean-Project",
+    "JWT_SECRETE_KEY" : "secret_this_should_be_longer"
+  }
+}
